@@ -6,7 +6,7 @@ A simple console calendar written in C++.
 
 Displays yearly calendar with Russian holidays and weekend highlighting.
 
-<img width="500" height="591" alt="showcase" src="https://github.com/user-attachments/assets/f92fc33b-7869-4a7f-89bc-14feeffa1f3d" />
+<img width="500" height="591" alt="showcase" src="showcase.png" />
 
 ## ✨ Features
 - 📆 Displays calendar for any year
